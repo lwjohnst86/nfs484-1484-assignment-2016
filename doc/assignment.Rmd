@@ -1,0 +1,73 @@
+---
+output:
+    word_document:
+      fig_caption: true
+---
+
+```{r setup, message=FALSE, echo=FALSE}
+devtools::load_all()
+```
+
+**Short Assignment: NFS484**
+
+*De novo* lipogenesis (DNL) is the process of converting carbohydrates into 
+fatty acids. Fatty acids are essentially produced from carbohydrates in this
+order: 14:0, 14:1n-7, 16:0, 16:1n-7, 18:0, 18:1n-9 (or 18:1n-7), 20:0, and
+20:1n-9. This process of creating fatty acids is important since fatty acids are
+necessary for the normal functioning of the body, such as for hormones or 
+cellular structures (e.g. cell membrane). However, recent studies suggest that 
+excess DNL may be harmful to health. A study was conducted on a cohort of 
+participants who are at risk for various chronic diseases. Fatty acids were 
+measured along with the Metabolic Syndrome (MetS) components, which is a cluster of 
+measures that are risk factors for cardiovascular disease and include blood 
+pressure (systolic: SBP, and diastolic: DBP), fasting blood glucose (FPG), HDL 
+(1/HDL is the inverse of HDL), triglycerides (TG), and waist size.
+
+```{r plot, fig.cap="Figure: Each dot is represents an association between the MetS component and a fatty acid. The large dot means it is a significant association. The value of the dot on the x-axis is interpreted as a standard deviation (SD) increase in the MetS component for every one SD increase in the fatty acid (for example, for 16:0 with DBP that has a value of 0.1 means that when 16:0 increases by one SD DBP increases by 0.1 SD). A positive value means harmful and a negative value means beneficial.", fig.width=7}
+plot_gee_main()
+```
+
+**Questions:**
+
+1. Refined carbohydrates and simple sugars contribute to excess and sudden
+increases in blood glucose. Given that the liver increases DNL to help reduce
+blood glucose, would you expect to see higher amounts of the smaller fatty acids
+(14:0, 16:0, 14:1n-7, 16:1n-7)? (1 mark)
+    - Yes
+    - No
+
+2. Choose the correct response for each statement: (4 marks)
+    - (TRUE / FALSE) Higher 16:0 is associated positively (harmfully) with
+    nearly all aspects of the MetS
+    - (TRUE / FALSE) All saturated fatty acids are positively (harmfully)
+    associated with MetS
+    - (TRUE / FALSE) Omega-9 fatty acids (18:1n-9 and 20:1n-9) are
+    negatively (beneficially) associated with HDL and TG
+    - (TRUE / FALSE) More than four fatty acids have positive (harmful)
+    associations with MetS
+
+3. Based on the results of the figure and question 1, are higher amounts of the
+DNL fatty acids harmful or beneficial for metabolic health? (1 mark)
+    - Harmful
+    - Beneficial
+
+4. Based on these results, which would be the most likely conclusion if refined
+carbohydrates were reduced in a person's diet: (1 mark)
+    - The person would have no change in the risk of MetS and cardiovascular
+    disease
+    - Less of the DNL fatty acids would be produced and risk of disease would be
+    lower
+    - There would be more DNL fatty acids and metabolic health would be lower
+
+5. Based on this assignment and from the tutorial material, would individuals
+who had low-to-moderate respiratory quotient (RQ) compared to high RQ be at a
+higher risk of accumulating harmful fatty acids? (1 mark)
+    - Yes
+    - No
+
+6. With aging, there is an increased prevalence of MeS components and the 
+tendency for higher fasting RQ. Given this would you expect that the prevalence
+of harmful fatty acids be higher in an older compared to a younger population?
+(1 mark)
+    - Yes
+    - No
