@@ -20,7 +20,7 @@ set_options <- function() {
     # For the document (knitr)
     knitr::opts_chunk$set(
         warning = FALSE, message = FALSE, collapse = TRUE, echo = FALSE,
-        dev = 'png', fig.path = 'fig/'
+        dev = c('png', 'jpeg'), fig.path = 'fig/'
     )
 }
 
