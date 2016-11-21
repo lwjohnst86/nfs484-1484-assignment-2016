@@ -19,7 +19,8 @@ set_options <- function() {
 
     # For the document (knitr)
     knitr::opts_chunk$set(
-        warning = FALSE, message = FALSE, collapse = TRUE, echo = FALSE
+        warning = FALSE, message = FALSE, collapse = TRUE, echo = FALSE,
+        dev = 'png', fig.path = 'fig/'
     )
 }
 
