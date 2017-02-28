@@ -1,5 +1,7 @@
 # Introduction to this project
 
+This project contains files and code used to write up a short assignment for NFS484-1484.
+
 This README details how this research directory is structured, how files should
 be run, and what the different files do. The layout and setup of this project
 was designed for using [RStudio](https://www.rstudio.com/) and
