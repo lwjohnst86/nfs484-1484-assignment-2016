@@ -29,45 +29,66 @@ plot_gee_main()
 
 **Questions:**
 
-1. Refined carbohydrates and simple sugars contribute to excess and sudden
-increases in blood glucose. Given that the liver increases DNL to help reduce
-blood glucose, would you expect to see higher amounts of the smaller fatty acids
-(14:0, 16:0, 14:1n-7, 16:1n-7)? (1 mark)
-    - Yes
-    - No
+1. Based on your understanding of energy metabolism, individuals consuming a low
+glycemic index carbohydrate diet would be at higher risk for production of
+excess amounts of the smaller fatty acids (14:0, 16:0, 14:1n-7, 16:1n-7) due to
+DNL compared to individuals consuming a high glycemic index diet.
+    - True
+    - False*
 
-2. Choose the correct response for each statement: (4 marks)
-    - (TRUE / FALSE) Higher 16:0 is associated positively (harmfully) with
-    nearly all aspects of the MetS
-    - (TRUE / FALSE) All saturated fatty acids are positively (harmfully)
-    associated with MetS
-    - (TRUE / FALSE) Omega-9 fatty acids (18:1n-9 and 20:1n-9) are
-    negatively (beneficially) associated with HDL and TG
-    - (TRUE / FALSE) More than four fatty acids have positive (harmful)
-    associations with MetS
+2. Higher 16:0 is associated positively (harmfully) with nearly all aspects of
+the MetS
+    - True*
+    - False
 
-3. Based on the results of the figure and question 1, are higher amounts of the
-DNL fatty acids harmful or beneficial for metabolic health? (1 mark)
-    - Harmful
+3. All saturated fatty acids are positively (harmfully) associated with MetS
+    - True
+    - False*
+
+4. Monounsaturated omega-9 fatty acids (18:1n-9 and 20:1n-9) are negatively
+(beneficially) associated with HDL and TG
+    - True*
+    - False
+
+5. More than four fatty acids have positive (harmful) associations with MetS
+    - True
+    - False*
+
+6. In terms of metabolic health and based on the results of the figure, are
+higher amounts of the DNL fatty acids
+    - Harmful*
     - Beneficial
+    - Neither since both harmful and beneficial fatty acids are produced
+    - Unable to tell from the data provided
 
-4. Based on these results, which would be the most likely conclusion if refined
-carbohydrates were reduced in a person's diet: (1 mark)
+7. Based on these results, which would be the most likely conclusion if refined
+carbohydrates were reduced in a person's diet
     - The person would have no change in the risk of MetS and cardiovascular
     disease
     - Less of the DNL fatty acids would be produced and risk of disease would be
-    lower
+    lower*
     - There would be more DNL fatty acids and metabolic health would be lower
+    - Caloric restriction and weight loss would be required before beneficial
+    changes in the risk of MetS and cardiovascular disease were observed
 
-5. Based on this assignment and from the tutorial material, would individuals
-who had low-to-moderate respiratory quotient (RQ) compared to high RQ be at a
-higher risk of accumulating harmful fatty acids? (1 mark)
-    - Yes
-    - No
+8. Based on this assignment and from the tutorial material, individuals who have
+a low-to-moderate post meal respiratory quotient (RQ) compared to those with a
+high post meal RQ would be at higher risk of accumulating harmful fatty acids
+    - True*
+    - False
 
-6. With aging, there is an increased prevalence of MeS components and the 
-tendency for higher fasting RQ. Given this would you expect that the prevalence
-of harmful fatty acids be higher in an older compared to a younger population?
-(1 mark)
-    - Yes
-    - No
+9. With aging, there is an increased prevalence of MetS components and the
+tendency for higher fasting RQ. Given this you would predict higher
+concentrations of 14:0 and 16:0 fatty acids in an older compared to a younger
+population.
+    - True*
+    - False
+
+10. Risk of excess DNL and developing components of the MetS due to
+inappropriate diet, lifestyle and life stage is more likely to be evident in:
+    - Post menopausal women consuming a high carbohydrate diet
+    - Post menopausal women attempting weight loss through energy restriction
+    - Middle aged men and women with central obesity consuming a high
+    carbohydrate diet* (?)
+    - Middle aged men and women with central obesity attempting weight loss
+    through energy restriction
